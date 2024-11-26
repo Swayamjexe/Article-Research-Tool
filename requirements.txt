@@ -1,0 +1,11 @@
+langchain==0.3.8
+langchain-community==0.3.8
+streamlit==1.40.1
+unstructured==0.16.6
+faiss-cpu==1.9.0
+libmagic==1.0
+python-magic==0.4.27
+python-magic-bin==0.4.14
+python-dotenv==1.0.1
+#tiktoken==0.1.1
+OpenAI==1.55.1
