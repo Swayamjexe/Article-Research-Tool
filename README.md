@@ -27,7 +27,7 @@ The **Article Research Tool** is a web application that allows users to upload l
 ## Prerequisites
 
 1. Python 3.7+
-2. OpenAI API Key
+2. Vlaid OpenAI API Key
 3. Libraries:
    - Streamlit
    - LangChain
