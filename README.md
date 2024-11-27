@@ -62,7 +62,7 @@ Ensure the following tools and libraries are installed before running the applic
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/article-research-tool.git
+   git clone https://github.com/Swayamjexe/Article-Research-Tool.git
    cd article-research-tool
    ```
 
